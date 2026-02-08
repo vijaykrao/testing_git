@@ -1,1 +1,3 @@
 Hi, this is git init.
+
+Change 2.
